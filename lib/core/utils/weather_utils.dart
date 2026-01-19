@@ -1,3 +1,4 @@
+// Weather condition utilities and formatters
 import 'package:flutter/material.dart';
 
 class WeatherUtils {
