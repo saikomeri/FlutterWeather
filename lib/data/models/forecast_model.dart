@@ -1,3 +1,4 @@
+// 5-day forecast data models
 class ForecastModel {
   final List<ForecastItem> hourly;
   final List<DailyForecast> daily;
