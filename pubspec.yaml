@@ -1,3 +1,4 @@
+# FlutterWeather - Weather Application
 name: flutter_weather
 description: A beautiful weather app built with Flutter and Riverpod, featuring real-time weather data, 5-day forecasts, location search, and animated weather icons.
 publish_to: 'none'
