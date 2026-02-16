@@ -1,3 +1,4 @@
+// App configuration and constants
 class AppConstants {
   AppConstants._();
 
